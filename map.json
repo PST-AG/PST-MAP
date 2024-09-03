@@ -1602,10 +1602,37 @@
                  "width":104,
                  "x":1140.16666666667,
                  "y":23.583333333333
+                }, 
+                {
+                 "height":418,
+                 "id":44,
+                 "name":"MEET WEIMAR",
+                 "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MEET-WEIMAR"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":612,
+                 "x":926,
+                 "y":670
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -2160,7 +2187,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":44,
+ "nextobjectid":46,
  "orientation":"orthogonal",
  "properties":[
         {
