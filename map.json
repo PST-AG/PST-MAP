@@ -1609,6 +1609,11 @@
                  "name":"MEET WEIMAR",
                  "properties":[
                         {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiConfig",
                          "type":"string",
                          "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
@@ -1622,9 +1627,19 @@
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"1.0"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":612,
                  "x":926,
