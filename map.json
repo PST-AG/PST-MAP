@@ -1669,6 +1669,7 @@
                  "rotation":0,
                  "text":
                     {
+                     "color":"#ffffff",
                      "text":"Silent Zone",
                      "wrap":true
                     },
@@ -2268,7 +2269,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":51,
+ "nextobjectid":52,
  "orientation":"orthogonal",
  "properties":[
         {
