@@ -1677,6 +1677,39 @@
                  "width":83,
                  "x":1241.16666666667,
                  "y":1220.16666666667
+                }, 
+                {
+                 "height":820,
+                 "id":49,
+                 "name":"ChatZone",
+                 "properties":[
+                        {
+                         "name":"chatDescription",
+                         "type":"string",
+                         "value":"PST Chat Zone"
+                        }, 
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"PST Chat Zone"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1260,
+                 "x":724,
+                 "y":524
+                }, 
+                {
+                 "height":0,
+                 "id":50,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":-342,
+                 "y":1388
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2235,7 +2268,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":49,
+ "nextobjectid":51,
  "orientation":"orthogonal",
  "properties":[
         {
