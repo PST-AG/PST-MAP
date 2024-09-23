@@ -746,9 +746,9 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":418,
+                 "height":96.6666666666667,
                  "id":44,
-                 "name":"MEET WEIMAR",
+                 "name":"IT Admin Area",
                  "properties":[
                         {
                          "name":"focusable",
@@ -763,7 +763,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MEET-WEIMAR"
+                         "value":"IT Admin Area"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -783,9 +783,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":612,
-                 "x":926,
-                 "y":670
+                 "width":224,
+                 "x":1122,
+                 "y":258
                 }, 
                 {
                  "height":67.333333333333,
@@ -937,6 +937,300 @@
                  "width":254.667,
                  "x":1632.6665,
                  "y":962.333166666667
+                }, 
+                {
+                 "height":418,
+                 "id":54,
+                 "name":"MEET WEIMAR",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MEET-WEIMAR"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"1.0"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":612,
+                 "x":929,
+                 "y":675
+                }, 
+                {
+                 "height":108.6667,
+                 "id":55,
+                 "name":"CUT Development",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"CUT Development"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"1.0"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":209.333333333333,
+                 "x":1384,
+                 "y":88.9999833333333
+                }, 
+                {
+                 "height":108.667,
+                 "id":56,
+                 "name":"SPL Development",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"SPL Development"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"1.0"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":275.999666666667,
+                 "x":1032.66683333333,
+                 "y":92.3331666666667
+                }, 
+                {
+                 "height":140.667,
+                 "id":57,
+                 "name":"HR Meet",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"HR Meet"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"1.0"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":169.333,
+                 "x":288.666833333333,
+                 "y":606.999833333333
+                }, 
+                {
+                 "height":162,
+                 "id":58,
+                 "name":"SPL Meet Only",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"SPL Meet"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"1.0"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":261.333,
+                 "x":1437.3335,
+                 "y":253.666666666667
+                }, 
+                {
+                 "height":135.334,
+                 "id":59,
+                 "name":"HR Meet 2",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"HR Meet 2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"1.0"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":158.666,
+                 "x":62.0003333333333,
+                 "y":608.999666666667
+                }, 
+                {
+                 "height":220.667,
+                 "id":60,
+                 "name":"MEET-3",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MEET-3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"string",
+                         "value":"1.0"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":478.667,
+                 "x":2048.6665,
+                 "y":482.333166666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1434,7 +1728,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":54,
+ "nextobjectid":61,
  "orientation":"orthogonal",
  "properties":[
         {
